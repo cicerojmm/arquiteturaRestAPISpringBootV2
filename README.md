@@ -1,4 +1,4 @@
-# Exemplo de arquitetura de uma API RestFULL com Maven, Spring Boot 2.4.1 e Swagger 2
+# Exemplo de arquitetura de uma API RestFULL com Maven, Spring Boot 2.1.4 e Swagger 2
 
 Estrutura para a construção de uma API RestFULL com SpringBoot.
 
